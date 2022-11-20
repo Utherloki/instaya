@@ -9,10 +9,10 @@ const App = ()=> {
     <div className="container">
       <div className="row">
         <div className="col">
-        <Acordeon/>
+          <Acordeon/>
         </div>
         <div className="col">
-        <Instaya1/>
+          <Instaya1/>
         </div>
       </div>
     </div>
