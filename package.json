@@ -51,6 +51,7 @@
   },
   "homepage": "https://github.com/Utherloki/instaya#readme",
   "devDependencies": {
-    "mini-css-extract-plugin": "^2.7.0"
+    "mini-css-extract-plugin": "^2.7.0",
+    "vite": "^3.2.4"
   }
 }
